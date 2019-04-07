@@ -1,0 +1,66 @@
+{
+  "uid" : "3d920ba2375025df",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+  "fullName" : "testcase.E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+  "historyId" : "15403cb251b8104b3e569038576a154e",
+  "time" : {
+    "start" : 1554620729554,
+    "stop" : 1554620729581,
+    "duration" : 27
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PMF0HO5"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "登录成功"
+  }, {
+    "name" : "thread",
+    "value" : "17260-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_success"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d920ba2375025df.json",
+  "parameterValues" : [ ]
+}

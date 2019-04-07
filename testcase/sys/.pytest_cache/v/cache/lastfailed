@@ -1,0 +1,9 @@
+{
+  "test_sys_login.py::Test_login::()::test_login_15username": true,
+  "test_sys_login.py::Test_login::()::test_login_fail": true,
+  "test_sys_login.py::Test_login::()::test_login_fpwd": true,
+  "test_sys_login.py::Test_login::()::test_login_fusername": true,
+  "test_sys_login.py::Test_login::()::test_login_kcanshu": true,
+  "test_sys_login.py::Test_login::()::test_login_kusername": true,
+  "test_sys_login.py::Test_login::()::test_login_success": true
+}

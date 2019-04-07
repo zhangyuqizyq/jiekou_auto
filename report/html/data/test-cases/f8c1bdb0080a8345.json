@@ -1,0 +1,66 @@
+{
+  "uid" : "f8c1bdb0080a8345",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_fpwd",
+  "fullName" : "testcase.E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_fpwd",
+  "historyId" : "d3aad1a45f3b598d172755357bc597e4",
+  "time" : {
+    "start" : 1554620729581,
+    "stop" : 1554620729609,
+    "duration" : 28
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PMF0HO5"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "登录失败"
+  }, {
+    "name" : "thread",
+    "value" : "17260-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_fpwd"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f8c1bdb0080a8345.json",
+  "parameterValues" : [ ]
+}

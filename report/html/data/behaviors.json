@@ -1,0 +1,137 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码成功",
+      "children" : [ {
+        "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_change_success",
+        "uid" : "4f23d4e86c7ac800",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554620729467,
+          "stop" : 1554620729538,
+          "duration" : 71
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a38462b3f4314282ccc0eb63786aa59e"
+    }, {
+      "name" : "修改密码失败",
+      "children" : [ {
+        "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_change_fail",
+        "uid" : "708ad82fe6b5cfc9",
+        "parentUid" : "1b04c7ae982f0cff7e4622a495336016",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554620729538,
+          "stop" : 1554620729553,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1b04c7ae982f0cff7e4622a495336016"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录成功",
+      "children" : [ {
+        "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+        "uid" : "3d920ba2375025df",
+        "parentUid" : "57a00934f1bd353362aa1d78642bc405",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554620729554,
+          "stop" : 1554620729581,
+          "duration" : 27
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57a00934f1bd353362aa1d78642bc405"
+    }, {
+      "name" : "登录失败",
+      "children" : [ {
+        "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_fpwd",
+        "uid" : "f8c1bdb0080a8345",
+        "parentUid" : "e3ad7243d130097a0b853dba02afbe33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554620729581,
+          "stop" : 1554620729609,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3ad7243d130097a0b853dba02afbe33"
+    }, {
+      "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_fusername",
+      "uid" : "7fc03135599948d9",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554620729610,
+        "stop" : 1554620729625,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_15username",
+      "uid" : "1fee44ff5d8711c5",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554620729626,
+        "stop" : 1554620729647,
+        "duration" : 21
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_kusername",
+      "uid" : "bdc8792e8bf01d57",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554620729647,
+        "stop" : 1554620729662,
+        "duration" : 15
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_kcanshu",
+      "uid" : "2e36d601858fe692",
+      "parentUid" : "6958045a481574bf02bb11ef07a7047b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1554620729663,
+        "stop" : 1554620729694,
+        "duration" : 31
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  }, {
+    "name" : "E:\\python相关\\jkauto\\testcase\\user.test_shilie.Test_lianxi.test_register_success",
+    "uid" : "abb443e33325d50a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1554620729695,
+      "stop" : 1554620729814,
+      "duration" : 119
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

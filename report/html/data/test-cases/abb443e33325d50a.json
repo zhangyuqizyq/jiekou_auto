@@ -1,0 +1,60 @@
+{
+  "uid" : "abb443e33325d50a",
+  "name" : "E:\\python相关\\jkauto\\testcase\\user.test_shilie.Test_lianxi.test_register_success",
+  "fullName" : "testcase.E:\\python相关\\jkauto\\testcase\\user.test_shilie.Test_lianxi.test_register_success",
+  "historyId" : "665f6dbd249cc36eebd5157cae83e65c",
+  "time" : {
+    "start" : 1554620729695,
+    "stop" : 1554620729814,
+    "duration" : 119
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PMF0HO5"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "17260-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\python相关\\jkauto\\testcase\\user.test_shilie.Test_lianxi.test_register_success"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "abb443e33325d50a.json",
+  "parameterValues" : [ ]
+}

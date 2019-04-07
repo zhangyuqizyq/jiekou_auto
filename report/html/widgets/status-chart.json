@@ -1,0 +1,91 @@
+[ {
+  "uid" : "3d920ba2375025df",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+  "time" : {
+    "start" : 1554620729554,
+    "stop" : 1554620729581,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e36d601858fe692",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_kcanshu",
+  "time" : {
+    "start" : 1554620729663,
+    "stop" : 1554620729694,
+    "duration" : 31
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abb443e33325d50a",
+  "name" : "E:\\python相关\\jkauto\\testcase\\user.test_shilie.Test_lianxi.test_register_success",
+  "time" : {
+    "start" : 1554620729695,
+    "stop" : 1554620729814,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdc8792e8bf01d57",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_kusername",
+  "time" : {
+    "start" : 1554620729647,
+    "stop" : 1554620729662,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8c1bdb0080a8345",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_fpwd",
+  "time" : {
+    "start" : 1554620729581,
+    "stop" : 1554620729609,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "708ad82fe6b5cfc9",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_change_fail",
+  "time" : {
+    "start" : 1554620729538,
+    "stop" : 1554620729553,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f23d4e86c7ac800",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_change_success",
+  "time" : {
+    "start" : 1554620729467,
+    "stop" : 1554620729538,
+    "duration" : 71
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1fee44ff5d8711c5",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_15username",
+  "time" : {
+    "start" : 1554620729626,
+    "stop" : 1554620729647,
+    "duration" : 21
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fc03135599948d9",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_login.Test_login.test_login_fusername",
+  "time" : {
+    "start" : 1554620729610,
+    "stop" : 1554620729625,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,128 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554625319346" stop="1554625321201">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554625319346" status="passed" stop="1554625319458">
+      <name>E:\python相关\jkauto\testcase\sys.test_sys_changePwd.Test_changePwd.test_change_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码成功"/>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625319458" status="passed" stop="1554625319517">
+      <name>E:\python相关\jkauto\testcase\sys.test_sys_changePwd.Test_changePwd.test_change_fail</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码失败"/>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625319519" status="passed" stop="1554625319652">
+      <name>E:\python相关\jkauto\testcase\sys.test_sys_login.Test_login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="登录成功"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625319654" status="passed" stop="1554625319956">
+      <name>E:\python相关\jkauto\testcase\sys.test_sys_login.Test_login.test_login_fpwd</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="登录失败"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625319959" status="passed" stop="1554625320001">
+      <name>E:\python相关\jkauto\testcase\sys.test_sys_login.Test_login.test_login_fusername</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625320004" status="passed" stop="1554625320089">
+      <name>E:\python相关\jkauto\testcase\sys.test_sys_login.Test_login.test_login_15username</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625320091" status="passed" stop="1554625320142">
+      <name>E:\python相关\jkauto\testcase\sys.test_sys_login.Test_login.test_login_kusername</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625320145" status="passed" stop="1554625320225">
+      <name>E:\python相关\jkauto\testcase\sys.test_sys_login.Test_login.test_login_kcanshu</name>
+      <attachments/>
+      <labels>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554625320228" status="passed" stop="1554625321201">
+      <name>E:\python相关\jkauto\testcase\user.test_shilie.Test_lianxi.test_register_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="注册成功"/>
+        <label name="feature" value="注册模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15908-MainThread"/>
+        <label name="host" value="DESKTOP-PMF0HO5"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

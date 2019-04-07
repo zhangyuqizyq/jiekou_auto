@@ -1,0 +1,66 @@
+{
+  "uid" : "708ad82fe6b5cfc9",
+  "name" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_change_fail",
+  "fullName" : "testcase.E:\\python相关\\jkauto\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_change_fail",
+  "historyId" : "646dffce315178c3b0395a38530b3c7d",
+  "time" : {
+    "start" : 1554620729538,
+    "stop" : 1554620729553,
+    "duration" : 15
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "修改密码模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PMF0HO5"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "修改密码失败"
+  }, {
+    "name" : "thread",
+    "value" : "17260-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\python相关\\jkauto\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_change_fail"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "708ad82fe6b5cfc9.json",
+  "parameterValues" : [ ]
+}

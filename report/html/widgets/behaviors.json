@@ -1,0 +1,26 @@
+{
+  "total" : 3,
+  "items" : [ {
+    "uid" : "6958045a481574bf02bb11ef07a7047b",
+    "name" : "登录模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "305a3b4fed53266ad019359911e11777",
+    "name" : "修改密码模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}
